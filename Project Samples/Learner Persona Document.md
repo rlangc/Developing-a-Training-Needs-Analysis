@@ -94,7 +94,3 @@ Based on these personas, Coding 101 should include:
 - Include interactive elements for entry-level learners  
 - Offer real-world applications for experienced professionals  
 - Provide high-level strategic insights for senior experts  
-
-<h2></h2>
-<p align="center">
-  <a href="https://github.com/rlangc"><b>Return to Home</b></a>
