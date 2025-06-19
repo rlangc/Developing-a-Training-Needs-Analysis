@@ -90,7 +90,3 @@ Interviewer: This has been a fascinating discussion! Any final thoughts on why u
 SME: Absolutely! Studying the solar system helps us understand Earth’s place in the universe, the potential for extraterrestrial life, and even how to protect our planet from asteroid impacts. It also inspires future generations to explore the unknown.
 
 Interviewer: Thank you so much, Dr. Carter, for your time and expertise!
-
-<h2></h2>
-<p align="center">
-  <a href="https://github.com/rlangc"><b>Return to Home</b></a>
