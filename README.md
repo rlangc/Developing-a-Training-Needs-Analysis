@@ -23,11 +23,11 @@ By exploring this repository, users will be able to:
 - `/TNA_Project_Showcases`  
   Realistic or anonymized TNA projects including full reports, visuals, and implementation examples.
 
-- `/TNA_Tools_and_Templates`  
-  Editable templates and checklists for planning and executing a TNA (e.g., forms, data plans, gap analysis worksheets).
-
 - `/TNA_Frameworks_and_Best_Practices`  
   Guides and summaries of instructional design models, accessibility, and strategic alignment practices.
+
+- `/TNA_Tools_and_Templates`  
+  Editable templates and checklists for planning and executing a TNA (e.g., forms, data plans, gap analysis worksheets).
 
 - `/TNA_Resources_and_References`  
   Articles, curated reading lists, benchmarking examples, and external links.
