@@ -1,8 +1,8 @@
-# Repository Guide
+## Repository Guide
 
 Welcome to the Training Needs Analysis Repository. This guide will help you navigate the structure and content of this collection.
 
-## How to Use This Repository
+### How to Use This Repository
 1. **Start with the README.md** for an overview of what’s inside and how it’s organized.
 2. **Visit the Overview & Introduction folder** to understand the context, terms, and core process steps.
 3. **Explore tools and templates** to download, adapt, or reference for your own TNA projects.
