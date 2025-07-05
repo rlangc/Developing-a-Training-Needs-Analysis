@@ -52,4 +52,4 @@ By aligning TNA efforts with Kirkpatrick’s four levels, instructional designer
 
 <br>
 
->*Integrating the Kirkpatrick Model into your TNA ensures that training solutions are built with the end in mind—from engagement to results—and grounded in a framework that connects learning to performance.*
+>*Integrating the Kirkpatrick Model into your TNA ensures that training solutions are built with the end in mind, from engagement to results, and grounded in a framework that connects learning to performance.*
