@@ -46,5 +46,5 @@ This guide outlines common risks and ethical considerations to help ensure your 
 #
 
 #### **Did you know?**  
-Even when performance issues appear to be skill-based, over 70% of root causes in workplace underperformance are related to systemic or environmental factors—not individual capability.
+Even when performance issues appear to be skill-based, over 70% of root causes in workplace underperformance are related to systemic or environmental factors, not individual capability.
 
