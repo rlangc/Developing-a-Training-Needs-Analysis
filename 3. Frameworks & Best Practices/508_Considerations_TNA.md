@@ -45,4 +45,4 @@ Incorporating 508 compliance into your TNA ensures that all learners can access 
 
 <br>
 
->By integrating accessibility into your needs analysis, you help ensure your training recommendations meet the needs of all learners—ethically, legally, and practically.*
+>*By integrating accessibility into your needs analysis, you help ensure your training recommendations meet the needs of all learners—ethically, legally, and practically.*
