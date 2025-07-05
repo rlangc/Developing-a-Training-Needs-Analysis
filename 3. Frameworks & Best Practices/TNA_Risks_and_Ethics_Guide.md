@@ -43,6 +43,8 @@ This guide outlines common risks and ethical considerations to help ensure your 
 
 >*Conducting a TNA with ethical rigor strengthens trust, ensures fairness, and increases the likelihood that training recommendations will be accepted and implemented.*
 
+#
+
 #### **Did you know?**  
 Even when performance issues appear to be skill-based, over 70% of root causes in workplace underperformance are related to systemic or environmental factors—not individual capability.
 
