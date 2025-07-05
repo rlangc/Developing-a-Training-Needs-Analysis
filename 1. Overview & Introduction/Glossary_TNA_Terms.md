@@ -1,4 +1,4 @@
-# Glossary of Training Needs Analysis Terms
+## Glossary of Training Needs Analysis Terms
 
 **Training Needs Analysis (TNA):** A systematic process for identifying performance gaps and determining whether training is the appropriate solution.
 
