@@ -41,7 +41,7 @@ Each row shows:
 
 It is usually created **after writing learning objectives** and **before or during test development** in the **Design** or **Development** phase of ADDIE.
 
-## 🛠 How to Build a Test-to-Objective Matrix
+## How to Build a Test-to-Objective Matrix
 
 1. **List Learning Objectives**  
    Use terminal and enabling objectives or ELOs.
