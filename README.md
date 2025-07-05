@@ -20,14 +20,11 @@ By exploring this repository, users will be able to:
 - `/Overview_And_Introduction`  
   Start here. Includes the project description, glossary, visual framework, and guide to using the repository.
 
-- `/Sample_Academic_TNA_Work`  
-  Curated graduate-level assignments, research papers, and reflections related to TNA.
+- `/TNA_Project_Showcases`  
+  Realistic or anonymized TNA projects including full reports, visuals, and implementation examples.
 
 - `/TNA_Tools_and_Templates`  
   Editable templates and checklists for planning and executing a TNA (e.g., forms, data plans, gap analysis worksheets).
-
-- `/TNA_Project_Showcases`  
-  Realistic or anonymized TNA projects including full reports, visuals, and implementation examples.
 
 - `/TNA_Frameworks_and_Best_Practices`  
   Guides and summaries of instructional design models, accessibility, and strategic alignment practices.
@@ -35,8 +32,6 @@ By exploring this repository, users will be able to:
 - `/TNA_Resources_and_References`  
   Articles, curated reading lists, benchmarking examples, and external links.
 
-- `/Documentation`  
-  Includes license, contribution guidelines, and changelog if applicable.
 
 ## How to Use This Repository
 
