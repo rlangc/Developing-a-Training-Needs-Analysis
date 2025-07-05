@@ -55,3 +55,6 @@ This collection is organized for flexible use. Whether you're a student learning
 
 This repository reflects a synthesis of academic study, practical experience, and industry best practices in instructional design and workforce development. It was created to support professional growth and to serve as a reference for anyone working with training and performance improvement.
 
+<h2></h2>
+<p align="center">
+  <a href="https://github.com/rlangc"><b>Return to Home</b></a>
